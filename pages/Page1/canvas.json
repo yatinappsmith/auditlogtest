@@ -13,13 +13,13 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1140,
+          "bottomRow": 380,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 64,
+          "version": 77,
           "minHeight": 1292,
           "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
@@ -45,7 +45,7 @@
               "animateLoading": true,
               "parentColumnSpace": 30.0625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 20,
+              "leftColumn": 12,
               "dynamicBindingPathList": [
                 {
                   "key": "buttonColor"
